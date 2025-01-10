@@ -1,0 +1,25 @@
+ .description-block {
+  display: inline-flex; 
+  align-items: center;
+  padding:10px 0;
+  gap: 5px;
+}
+
+.title-input{
+  width: 250px;
+}
+
+.description-input{
+  width: 255px;
+  height: 100px;
+}
+
+.form-submit{
+  display: block;
+  width: 150px;
+  margin-left: 120px;
+}
+
+.post-card{
+  border: 1px solid green  ;
+}
